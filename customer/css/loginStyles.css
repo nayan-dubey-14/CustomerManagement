@@ -1,0 +1,39 @@
+.main-container
+{
+width:75hw;
+height:98vh;
+border:2px solid black;
+}
+.logo
+{
+float:left;
+margin:5px;
+}
+.brand-name
+{
+margin-top:10px;
+margin-bottom:5px;
+font-size:25pt;
+}
+.header
+{
+width:75hw;
+height:auto;
+border:1px solid black;
+margin:6px;
+}
+.error
+{
+color:red;
+}
+.down-container
+{
+width:70hw;
+height:40vh;
+margin-left:450px;
+margin-right:450px;
+margin-top:125px;
+margin-bottom:2px;
+border:1px solid black;
+padding: 2px;
+}
